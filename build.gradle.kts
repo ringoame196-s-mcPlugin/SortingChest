@@ -44,7 +44,7 @@ configure<BukkitPluginDescription> {
 	commands {
 		register("sortingchest") {
 			description = "sortingChest用のコマンド"
-			usage = "/sortingchest"
+			usage = "/sortingchest <block,player>"
 		}
 	}
 }
