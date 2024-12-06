@@ -4,6 +4,10 @@
 インベントリの中身をワン・コマンドで整理 <br>
 チェスト以外にもインベントリを持っているブロックは整理可能！
 
+
+Uploading Minecraft Forge_ 1.20.1 - マルチプレイ（サードパーティーのサーバー） 2024-12-06 19-48-46 - Trim (1).mp4…
+
+
 ## プラグインダウンロード
 [ダウンロードリンク](https://github.com/ringoame196-s-mcPlugin/SortingChest/releases/latest)
 
