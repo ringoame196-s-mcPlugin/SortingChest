@@ -5,7 +5,9 @@
 チェスト以外にもインベントリを持っているブロックは整理可能！
 
 
-Uploading Minecraft Forge_ 1.20.1 - マルチプレイ（サードパーティーのサーバー） 2024-12-06 19-48-46 - Trim (1).mp4…
+
+https://github.com/user-attachments/assets/7d916750-7f12-40c7-8ec3-002fca950ffe
+
 
 
 ## プラグインダウンロード
